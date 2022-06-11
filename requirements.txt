@@ -6,3 +6,4 @@ regex
 yarl
 Flask
 httpx
+Gunicorn
