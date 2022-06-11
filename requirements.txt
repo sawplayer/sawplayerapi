@@ -1,0 +1,8 @@
+numpy
+Flask-RESTful
+lxml
+pycryptodomex
+regex
+yarl
+Flask
+httpx
